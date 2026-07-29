@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-ou44wm.fleep-casino.win/sitemap.xml
